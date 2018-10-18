@@ -1,0 +1,1004 @@
+# depslib dependency file v1.0
+1511440156 source:d:\brogrammers\brogrammers\allocation.cpp
+	"Allocation.h"
+
+1511440044 d:\brogrammers\brogrammers\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+
+1511440255 d:\brogrammers\brogrammers\course.h
+	"Group.h"
+	<string>
+
+1511437922 d:\brogrammers\brogrammers\group.h
+	<string>
+
+1511437572 d:\brogrammers\brogrammers\instructor.h
+	<string>
+
+1511440319 d:\brogrammers\brogrammers\room.h
+	<string>
+
+1511440256 source:d:\brogrammers\brogrammers\course.cpp
+	"Course.h"
+
+1511430933 source:d:\brogrammers\brogrammers\group.cpp
+	"Group.h"
+
+1511439312 source:d:\brogrammers\brogrammers\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511439283 d:\brogrammers\brogrammers\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511432072 source:d:\brogrammers\brogrammers\input.cpp
+	"Input.h"
+
+1511435708 d:\brogrammers\brogrammers\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 d:\brogrammers\brogrammers\splitline.h
+	<string>
+
+1511430933 source:d:\brogrammers\brogrammers\instructor.cpp
+	"Instructor.h"
+
+1511430933 source:d:\brogrammers\brogrammers\output.cpp
+	"Output.h"
+
+1511435708 d:\brogrammers\brogrammers\output.h
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511440319 source:d:\brogrammers\brogrammers\room.cpp
+	"Room.h"
+
+1511073856 source:d:\brogrammers\brogrammers\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511440649 source:d:\brogrammers\brogrammers\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511615345 source:c:\users\user\desktop\bachelor\brogrammersolder\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511437572 c:\users\user\desktop\bachelor\brogrammersolder\instructor.h
+	<string>
+
+1511440319 c:\users\user\desktop\bachelor\brogrammersolder\room.h
+	<string>
+
+1511437922 c:\users\user\desktop\bachelor\brogrammersolder\group.h
+	<string>
+
+1511440255 c:\users\user\desktop\bachelor\brogrammersolder\course.h
+	"Group.h"
+	<string>
+
+1511435708 c:\users\user\desktop\bachelor\brogrammersolder\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\user\desktop\bachelor\brogrammersolder\splitline.h
+	<string>
+
+1511440044 c:\users\user\desktop\bachelor\brogrammersolder\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+
+1511614644 c:\users\user\desktop\bachelor\brogrammersolder\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511439283 c:\users\user\desktop\bachelor\brogrammersolder\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511440256 source:c:\users\user\desktop\bachelor\brogrammersolder\course.cpp
+	"Course.h"
+
+1511430933 source:c:\users\user\desktop\bachelor\brogrammersolder\group.cpp
+	"Group.h"
+
+1511439312 source:c:\users\user\desktop\bachelor\brogrammersolder\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511615053 source:c:\users\user\desktop\bachelor\brogrammersolder\input.cpp
+	"Input.h"
+
+1511430933 source:c:\users\user\desktop\bachelor\brogrammersolder\instructor.cpp
+	"Instructor.h"
+
+1511615828 source:c:\users\user\desktop\bachelor\brogrammersolder\output.cpp
+	"Output.h"
+
+1511440319 source:c:\users\user\desktop\bachelor\brogrammersolder\room.cpp
+	"Room.h"
+
+1511073856 source:c:\users\user\desktop\bachelor\brogrammersolder\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511614462 source:c:\users\user\desktop\bachelor\brogrammersolder\allocation.cpp
+	"Allocation.h"
+
+1511620766 source:c:\users\user\desktop\brogrammersprefinal\allocation.cpp
+	"Allocation.h"
+
+1511620829 c:\users\user\desktop\brogrammersprefinal\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1511440255 c:\users\user\desktop\brogrammersprefinal\course.h
+	"Group.h"
+	<string>
+
+1511437922 c:\users\user\desktop\brogrammersprefinal\group.h
+	<string>
+
+1511437572 c:\users\user\desktop\brogrammersprefinal\instructor.h
+	<string>
+
+1511440319 c:\users\user\desktop\brogrammersprefinal\room.h
+	<string>
+
+1511620922 source:c:\users\user\desktop\brogrammersprefinal\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511435708 c:\users\user\desktop\brogrammersprefinal\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\user\desktop\brogrammersprefinal\splitline.h
+	<string>
+
+1511614644 c:\users\user\desktop\brogrammersprefinal\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511439283 c:\users\user\desktop\brogrammersprefinal\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511440256 source:c:\users\user\desktop\brogrammersprefinal\course.cpp
+	"Course.h"
+
+1511430933 source:c:\users\user\desktop\brogrammersprefinal\group.cpp
+	"Group.h"
+
+1511439312 source:c:\users\user\desktop\brogrammersprefinal\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511615053 source:c:\users\user\desktop\brogrammersprefinal\input.cpp
+	"Input.h"
+
+1511430933 source:c:\users\user\desktop\brogrammersprefinal\instructor.cpp
+	"Instructor.h"
+
+1511615828 source:c:\users\user\desktop\brogrammersprefinal\output.cpp
+	"Output.h"
+
+1511440319 source:c:\users\user\desktop\brogrammersprefinal\room.cpp
+	"Room.h"
+
+1511073856 source:c:\users\user\desktop\brogrammersprefinal\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511788167 source:c:\users\user\desktop\2brogrammersprefinal\allocation.cpp
+	"Allocation.h"
+
+1511785453 c:\users\user\desktop\2brogrammersprefinal\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1511440255 c:\users\user\desktop\2brogrammersprefinal\course.h
+	"Group.h"
+	<string>
+
+1511437922 c:\users\user\desktop\2brogrammersprefinal\group.h
+	<string>
+
+1511437572 c:\users\user\desktop\2brogrammersprefinal\instructor.h
+	<string>
+
+1511440319 c:\users\user\desktop\2brogrammersprefinal\room.h
+	<string>
+
+1511784999 source:c:\users\user\desktop\2brogrammersprefinal\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511435708 c:\users\user\desktop\2brogrammersprefinal\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\user\desktop\2brogrammersprefinal\splitline.h
+	<string>
+
+1511785514 c:\users\user\desktop\2brogrammersprefinal\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511439283 c:\users\user\desktop\2brogrammersprefinal\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511440256 source:c:\users\user\desktop\2brogrammersprefinal\course.cpp
+	"Course.h"
+
+1511430933 source:c:\users\user\desktop\2brogrammersprefinal\group.cpp
+	"Group.h"
+
+1511439312 source:c:\users\user\desktop\2brogrammersprefinal\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511615053 source:c:\users\user\desktop\2brogrammersprefinal\input.cpp
+	"Input.h"
+
+1511430933 source:c:\users\user\desktop\2brogrammersprefinal\instructor.cpp
+	"Instructor.h"
+
+1511789243 source:c:\users\user\desktop\2brogrammersprefinal\output.cpp
+	"Output.h"
+
+1511440319 source:c:\users\user\desktop\2brogrammersprefinal\room.cpp
+	"Room.h"
+
+1511073856 source:c:\users\user\desktop\2brogrammersprefinal\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511439312 source:d:\final\2brogrammersprefinal\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511796006 d:\final\2brogrammersprefinal\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511795248 d:\final\2brogrammersprefinal\course.h
+	"Group.h"
+	<string>
+
+1511795248 d:\final\2brogrammersprefinal\group.h
+	<string>
+
+1511796008 d:\final\2brogrammersprefinal\instructor.h
+	<string>
+
+1511796012 d:\final\2brogrammersprefinal\room.h
+	<string>
+
+1511615053 source:d:\final\2brogrammersprefinal\input.cpp
+	"Input.h"
+
+1511435708 d:\final\2brogrammersprefinal\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 d:\final\2brogrammersprefinal\splitline.h
+	<string>
+
+1511430933 source:d:\final\2brogrammersprefinal\instructor.cpp
+	"Instructor.h"
+
+1511798413 source:d:\final\2brogrammersprefinal\output.cpp
+	"Output.h"
+
+1511796011 d:\final\2brogrammersprefinal\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511440319 source:d:\final\2brogrammersprefinal\room.cpp
+	"Room.h"
+
+1511073856 source:d:\final\2brogrammersprefinal\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511795730 source:d:\final\2brogrammersprefinal\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511798337 d:\final\2brogrammersprefinal\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1511795248 source:d:\final\2brogrammersprefinal\course.cpp
+	"Course.h"
+
+1511795248 source:d:\final\2brogrammersprefinal\group.cpp
+	"Group.h"
+
+1511798244 source:d:\final\2brogrammersprefinal\allocation.cpp
+	"Allocation.h"
+
+1511798244 source:c:\users\admin\desktop\2brogrammersprefinal\allocation.cpp
+	"Allocation.h"
+
+1511798336 c:\users\admin\desktop\2brogrammersprefinal\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1511800102 c:\users\admin\desktop\2brogrammersprefinal\course.h
+	"Group.h"
+	<string>
+
+1511795248 c:\users\admin\desktop\2brogrammersprefinal\group.h
+	<string>
+
+1511796008 c:\users\admin\desktop\2brogrammersprefinal\instructor.h
+	<string>
+
+1511796012 c:\users\admin\desktop\2brogrammersprefinal\room.h
+	<string>
+
+1511795730 source:c:\users\admin\desktop\2brogrammersprefinal\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511435708 c:\users\admin\desktop\2brogrammersprefinal\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\admin\desktop\2brogrammersprefinal\splitline.h
+	<string>
+
+1511796010 c:\users\admin\desktop\2brogrammersprefinal\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511796006 c:\users\admin\desktop\2brogrammersprefinal\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511795248 source:c:\users\admin\desktop\2brogrammersprefinal\group.cpp
+	"Group.h"
+
+1511439312 source:c:\users\admin\desktop\2brogrammersprefinal\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511430932 source:c:\users\admin\desktop\2brogrammersprefinal\instructor.cpp
+	"Instructor.h"
+
+1511798412 source:c:\users\admin\desktop\2brogrammersprefinal\output.cpp
+	"Output.h"
+
+1511440318 source:c:\users\admin\desktop\2brogrammersprefinal\room.cpp
+	"Room.h"
+
+1511073856 source:c:\users\admin\desktop\2brogrammersprefinal\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511800059 source:c:\users\admin\desktop\2brogrammersprefinal\course.cpp
+	"Course.h"
+
+1511800259 source:c:\users\admin\desktop\2brogrammersprefinal\input.cpp
+	"Input.h"
+
+1511844525 source:c:\users\ilyas\desktop\2brogrammersprefinal\allocation.cpp
+	"Allocation.h"
+
+1511798336 c:\users\ilyas\desktop\2brogrammersprefinal\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1511800104 c:\users\ilyas\desktop\2brogrammersprefinal\course.h
+	"Group.h"
+	<string>
+
+1511795248 c:\users\ilyas\desktop\2brogrammersprefinal\group.h
+	<string>
+
+1511796008 c:\users\ilyas\desktop\2brogrammersprefinal\instructor.h
+	<string>
+
+1511796012 c:\users\ilyas\desktop\2brogrammersprefinal\room.h
+	<string>
+
+1511811911 source:c:\users\ilyas\desktop\2brogrammersprefinal\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511435708 c:\users\ilyas\desktop\2brogrammersprefinal\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\ilyas\desktop\2brogrammersprefinal\splitline.h
+	<string>
+
+1511796010 c:\users\ilyas\desktop\2brogrammersprefinal\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511796006 c:\users\ilyas\desktop\2brogrammersprefinal\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511849270 source:c:\users\ilyas\desktop\2brogrammersprefinal\course.cpp
+	"Course.h"
+	<iostream>
+
+1511795248 source:c:\users\ilyas\desktop\2brogrammersprefinal\group.cpp
+	"Group.h"
+
+1511439312 source:c:\users\ilyas\desktop\2brogrammersprefinal\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511430932 source:c:\users\ilyas\desktop\2brogrammersprefinal\instructor.cpp
+	"Instructor.h"
+
+1511798412 source:c:\users\ilyas\desktop\2brogrammersprefinal\output.cpp
+	"Output.h"
+
+1511440318 source:c:\users\ilyas\desktop\2brogrammersprefinal\room.cpp
+	"Room.h"
+
+1511810999 source:c:\users\ilyas\desktop\2brogrammersprefinal\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511810010 source:c:\users\ilyas\desktop\2brogrammersprefinal\input.cpp
+	"Input.h"
+
+1511858089 source:c:\users\user\desktop\final\2brogrammersprefinal\allocation.cpp
+	"Allocation.h"
+
+1511798336 c:\users\user\desktop\final\2brogrammersprefinal\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1511800104 c:\users\user\desktop\final\2brogrammersprefinal\course.h
+	"Group.h"
+	<string>
+
+1511795248 c:\users\user\desktop\final\2brogrammersprefinal\group.h
+	<string>
+
+1511796008 c:\users\user\desktop\final\2brogrammersprefinal\instructor.h
+	<string>
+
+1511796012 c:\users\user\desktop\final\2brogrammersprefinal\room.h
+	<string>
+
+1511811911 source:c:\users\user\desktop\final\2brogrammersprefinal\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511435708 c:\users\user\desktop\final\2brogrammersprefinal\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\user\desktop\final\2brogrammersprefinal\splitline.h
+	<string>
+
+1511796010 c:\users\user\desktop\final\2brogrammersprefinal\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511796006 c:\users\user\desktop\final\2brogrammersprefinal\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511795248 source:c:\users\user\desktop\final\2brogrammersprefinal\group.cpp
+	"Group.h"
+
+1511439312 source:c:\users\user\desktop\final\2brogrammersprefinal\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511810010 source:c:\users\user\desktop\final\2brogrammersprefinal\input.cpp
+	"Input.h"
+
+1511430932 source:c:\users\user\desktop\final\2brogrammersprefinal\instructor.cpp
+	"Instructor.h"
+
+1511798412 source:c:\users\user\desktop\final\2brogrammersprefinal\output.cpp
+	"Output.h"
+
+1511440318 source:c:\users\user\desktop\final\2brogrammersprefinal\room.cpp
+	"Room.h"
+
+1511810999 source:c:\users\user\desktop\final\2brogrammersprefinal\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511856086 source:c:\users\user\desktop\final\2brogrammersprefinal\course.cpp
+	"Course.h"
+	<iostream>
+
+1511926250 source:c:\users\user\desktop\final\brogrammersfinal\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511796008 c:\users\user\desktop\final\brogrammersfinal\instructor.h
+	<string>
+
+1511796012 c:\users\user\desktop\final\brogrammersfinal\room.h
+	<string>
+
+1511795248 c:\users\user\desktop\final\brogrammersfinal\group.h
+	<string>
+
+1511860507 c:\users\user\desktop\final\brogrammersfinal\course.h
+	"Group.h"
+	<string>
+
+1511435708 c:\users\user\desktop\final\brogrammersfinal\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\user\desktop\final\brogrammersfinal\splitline.h
+	<string>
+
+1511798336 c:\users\user\desktop\final\brogrammersfinal\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1511796010 c:\users\user\desktop\final\brogrammersfinal\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511796006 c:\users\user\desktop\final\brogrammersfinal\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511860849 source:c:\users\user\desktop\final\brogrammersfinal\course.cpp
+	"Course.h"
+	<iostream>
+
+1511795248 source:c:\users\user\desktop\final\brogrammersfinal\group.cpp
+	"Group.h"
+
+1511927405 source:c:\users\user\desktop\final\brogrammersfinal\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511810010 source:c:\users\user\desktop\final\brogrammersfinal\input.cpp
+	"Input.h"
+
+1511430932 source:c:\users\user\desktop\final\brogrammersfinal\instructor.cpp
+	"Instructor.h"
+
+1511924533 source:c:\users\user\desktop\final\brogrammersfinal\output.cpp
+	"Output.h"
+
+1511440318 source:c:\users\user\desktop\final\brogrammersfinal\room.cpp
+	"Room.h"
+
+1511810999 source:c:\users\user\desktop\final\brogrammersfinal\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1511927572 source:c:\users\user\desktop\final\brogrammersfinal\allocation.cpp
+	"Allocation.h"
+
+1512053080 source:c:\users\user\desktop\final version\allocation.cpp
+	"Allocation.h"
+
+1511798336 c:\users\user\desktop\final version\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1512053115 c:\users\user\desktop\final version\course.h
+	"Group.h"
+	<string>
+
+1511795248 c:\users\user\desktop\final version\group.h
+	<string>
+
+1511796008 c:\users\user\desktop\final version\instructor.h
+	<string>
+
+1511796012 c:\users\user\desktop\final version\room.h
+	<string>
+
+1511929334 source:c:\users\user\desktop\final version\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511435708 c:\users\user\desktop\final version\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\user\desktop\final version\splitline.h
+	<string>
+
+1511796010 c:\users\user\desktop\final version\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511796006 c:\users\user\desktop\final version\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1511860849 source:c:\users\user\desktop\final version\course.cpp
+	"Course.h"
+	<iostream>
+
+1511795248 source:c:\users\user\desktop\final version\group.cpp
+	"Group.h"
+
+1511927405 source:c:\users\user\desktop\final version\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511810010 source:c:\users\user\desktop\final version\input.cpp
+	"Input.h"
+
+1511430932 source:c:\users\user\desktop\final version\instructor.cpp
+	"Instructor.h"
+
+1511929374 source:c:\users\user\desktop\final version\output.cpp
+	"Output.h"
+
+1511440318 source:c:\users\user\desktop\final version\room.cpp
+	"Room.h"
+
+1511810999 source:c:\users\user\desktop\final version\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
+1512053080 source:c:\users\user\desktop\brogrammers\time table generator\allocation.cpp
+	"Allocation.h"
+
+1511798336 c:\users\user\desktop\brogrammers\time table generator\allocation.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1512053115 c:\users\user\desktop\brogrammers\time table generator\course.h
+	"Group.h"
+	<string>
+
+1511795248 c:\users\user\desktop\brogrammers\time table generator\group.h
+	<string>
+
+1511796008 c:\users\user\desktop\brogrammers\time table generator\instructor.h
+	<string>
+
+1511796012 c:\users\user\desktop\brogrammers\time table generator\room.h
+	<string>
+
+1511929334 source:c:\users\user\desktop\brogrammers\time table generator\brogrammers.cpp
+	"Instructor.h"
+	"Room.h"
+	"Group.h"
+	"Course.h"
+	"Input.h"
+	"Allocation.h"
+	"Output.h"
+	"splitline.h"
+	"IndexDistribution.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1511435708 c:\users\user\desktop\brogrammers\time table generator\input.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+	<cstring>
+	<sstream>
+	<iostream>
+	<fstream>
+	"splitline.h"
+
+1511073822 c:\users\user\desktop\brogrammers\time table generator\splitline.h
+	<string>
+
+1511796010 c:\users\user\desktop\brogrammers\time table generator\output.h
+	<fstream>
+	"Course.h"
+	<iostream>
+	<iomanip>
+
+1511796006 c:\users\user\desktop\brogrammers\time table generator\indexdistribution.h
+	"Course.h"
+	"Group.h"
+	"Instructor.h"
+	"Room.h"
+
+1512053185 source:c:\users\user\desktop\brogrammers\time table generator\course.cpp
+	"Course.h"
+	<iostream>
+
+1511795248 source:c:\users\user\desktop\brogrammers\time table generator\group.cpp
+	"Group.h"
+
+1511927405 source:c:\users\user\desktop\brogrammers\time table generator\indexdistribution.cpp
+	"IndexDistribution.h"
+
+1511810010 source:c:\users\user\desktop\brogrammers\time table generator\input.cpp
+	"Input.h"
+
+1511430932 source:c:\users\user\desktop\brogrammers\time table generator\instructor.cpp
+	"Instructor.h"
+
+1511929374 source:c:\users\user\desktop\brogrammers\time table generator\output.cpp
+	"Output.h"
+
+1511440318 source:c:\users\user\desktop\brogrammers\time table generator\room.cpp
+	"Room.h"
+
+1511810999 source:c:\users\user\desktop\brogrammers\time table generator\splitline.cpp
+	<string>
+	<algorithm>
+	"splitline.h"
+
